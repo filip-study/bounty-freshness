@@ -1,0 +1,4 @@
+status	url	title
+open	https://github.com/tenstorrent/tt-metal/issues/56908	[Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption
+closed	https://github.com/calcom/sans/issues/2	Plans on weights?
+closed	https://github.com/colinhacks/zod/issues/2654	Schema in object being inferred differently (and weirdly)

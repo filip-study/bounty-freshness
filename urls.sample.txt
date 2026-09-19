@@ -1,0 +1,4 @@
+# sample — mix of live vs stale
+https://github.com/tenstorrent/tt-metal/issues/56908
+https://github.com/calcom/sans/issues/2
+https://github.com/colinhacks/zod/issues/2654
