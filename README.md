@@ -19,6 +19,11 @@ python3 bounty_freshness.py urls.txt
 
 Base USDC: `0xbAd41cF0f0d5442f9A53630F8081BFd257DA019b`
 
+
+## Related (same wallet)
+
+- [base-usdc-paylink](https://github.com/filip-study/base-usdc-paylink) — create Base USDC tip/unlock links
+
 ## License
 
 MIT
